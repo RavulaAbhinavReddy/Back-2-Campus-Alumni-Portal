@@ -74,7 +74,7 @@ This project includes complete documentation to help:
 
 ## 🔗 **Useful Links**
 
-- 🌐 [Live Demo](#) *(Add link if hosted)*
+- 🌐 [Live Demo](#) 
 - 📁 [Download Source Code](#)
 - 🧾 [Database Structure](#)
 - 🛠️ [Installation Guide](#)
